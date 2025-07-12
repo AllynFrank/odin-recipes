@@ -20,6 +20,7 @@ Learning web development with The Odin Project.  This is the first project under
 
 - Ghostty: A terminal emulator I currently use
 - Zoxide: "A smarter cd command"
+- Oh My ZSH: Framework for managing the zsh configuration
 - Powerlevel10k: Zsh theme
 - Zsh-autosuggestions: A plugin that provides auto suggestions while typing
 - Zsh-syntax-highlighting: A plugin that provides syntax highlighting for the zsh shell
