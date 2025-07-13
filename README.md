@@ -7,14 +7,9 @@ Learning web development with The Odin Project.  This is the first project under
 ### Tools / Technologies Used
 
 - Terminal
-    - mkdir: Creating a new directory
-    - cd: Change directory (I happen to come across Zoxide through homebrew, which I can use "z" instead of "cd")
-    - touch: Creating a new file
-    - ls -F: Lists directory contents with the F flag denotes which are directories
-    - ls -la: Lists directory contents including hidden files/directories
-- Markdown
 - VS Code
 - Git/Github
+- Markdown
 - HTML
 
 ### Tools / Technologies I Discovered & Currently Use
